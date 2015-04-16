@@ -1,0 +1,1 @@
+curl -i -v -X POST -d 'grant_type=client_credentials' -H 'Authorization: Basic NlpMTW5mY0lXVDdOMFBQZ3l3QzBkYUdHYzJBamZKN29nbUExcTNaRlBaOENlCg==' -H 'Content-Type: application/x-www-form-urlencoded;charset=UTF-8' 'https://api.twitter.com/oauth2/token'
